@@ -6,6 +6,7 @@ public class Rectangle {
 	public String name;
 
 	public Rectangle() {
+		
 	}
 
 	public int calculateArea() {
