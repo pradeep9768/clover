@@ -10,7 +10,6 @@ public class Rectangle {
 	}
 
 	public int calculateArea() {
-
 		int result = this.width * this.length;
 		return result;
 	}

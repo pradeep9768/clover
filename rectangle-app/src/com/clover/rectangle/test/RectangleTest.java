@@ -2,7 +2,7 @@ package com.clover.rectangle.test;
 
 import com.clover.rectangle.Rectangle;
 
-public class RectangleTest {
+public class RectangleTest { 
 
 	public static void main(String[] args) {
 		Rectangle smallRect = new Rectangle();
@@ -13,7 +13,6 @@ public class RectangleTest {
 
 		System.out.println("Area of smallRect:" + smallRect.calculateArea());
 		System.out.println("Area of newRect: " + newRect.calculateArea());
-
 	}
 
 }
